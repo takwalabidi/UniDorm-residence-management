@@ -56,5 +56,3 @@ Février 2026 – Mai 2026
 ###  Conclusion
 Ce projet permet de mettre en pratique les notions de programmation en Python, la gestion des fichiers, les structures de données et la logique algorithmique dans un contexte réel de gestion universitaire.
 
-### 📌 Conclusion
-Ce projet permet de mettre en pratique les notions de programmation en Python, la gestion des fichiers, les structures de données et la logique algorithmique dans un contexte réel de gestion universitaire.
